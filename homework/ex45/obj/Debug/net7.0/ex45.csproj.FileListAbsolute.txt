@@ -1,0 +1,15 @@
+/Users/mak/Desktop/семинары/sem6/homework/ex45/bin/Debug/net7.0/ex45
+/Users/mak/Desktop/семинары/sem6/homework/ex45/bin/Debug/net7.0/ex45.deps.json
+/Users/mak/Desktop/семинары/sem6/homework/ex45/bin/Debug/net7.0/ex45.runtimeconfig.json
+/Users/mak/Desktop/семинары/sem6/homework/ex45/bin/Debug/net7.0/ex45.dll
+/Users/mak/Desktop/семинары/sem6/homework/ex45/bin/Debug/net7.0/ex45.pdb
+/Users/mak/Desktop/семинары/sem6/homework/ex45/obj/Debug/net7.0/ex45.csproj.AssemblyReference.cache
+/Users/mak/Desktop/семинары/sem6/homework/ex45/obj/Debug/net7.0/ex45.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mak/Desktop/семинары/sem6/homework/ex45/obj/Debug/net7.0/ex45.AssemblyInfoInputs.cache
+/Users/mak/Desktop/семинары/sem6/homework/ex45/obj/Debug/net7.0/ex45.AssemblyInfo.cs
+/Users/mak/Desktop/семинары/sem6/homework/ex45/obj/Debug/net7.0/ex45.csproj.CoreCompileInputs.cache
+/Users/mak/Desktop/семинары/sem6/homework/ex45/obj/Debug/net7.0/ex45.dll
+/Users/mak/Desktop/семинары/sem6/homework/ex45/obj/Debug/net7.0/refint/ex45.dll
+/Users/mak/Desktop/семинары/sem6/homework/ex45/obj/Debug/net7.0/ex45.pdb
+/Users/mak/Desktop/семинары/sem6/homework/ex45/obj/Debug/net7.0/ex45.genruntimeconfig.cache
+/Users/mak/Desktop/семинары/sem6/homework/ex45/obj/Debug/net7.0/ref/ex45.dll
